@@ -19,7 +19,7 @@ title: Background
   </div>
   <div class="card__content">
     <div class="card__header">
-      <h4><a href="/home">Allen High School</a></h4>
+      <h4>Allen High School</h4>
     </div>
     <p>Graduated 2017 <br> High school diploma</p>
   </div>
@@ -40,7 +40,7 @@ title: Background
   </div>
   <div class="card__content">
     <div class="card__header">
-      <h4><a href="/home">UTD</a> </h4>
+      <h4>UTD</h4>
     </div>
     <p>Graduated 2021 <br> B.S. in Electrical Engineering  </p>
   </div>
@@ -62,7 +62,7 @@ title: Background
   </div>
   <div class="card__content">
     <div class="card__header">
-      <h4><a href="/home">Georgia Tech</a></h4>
+      <h4>Georgia Tech</h4>
     </div>
     <p>Expected 2026 <br> Ph.D in Electrical Engineering</p>
   </div>
@@ -109,7 +109,7 @@ title: Background
   </div>
   <div class="item__content">
     <div class="item__header">
-      <h4> <a href = "https://personal.utdallas.edu/~joseph.friedman/">Undergrad Researcher </a></h4> 
+      <h4> Undergrad Researcher <a href = "https://personal.utdallas.edu/~joseph.friedman/">(Link) </a></h4> 
     </div>
     <div class="item__description">
       <p>May 2018 - May 2021</p>
