@@ -105,7 +105,7 @@ title: Background
 
 <div class="item">
   <div class="item__image">
-    <img class="image" src="/nsc.png"/>
+    <img class="image" src="/nsc.PNG"/>
   </div>
   <div class="item__content">
     <div class="item__header">
