@@ -158,7 +158,7 @@ title: Background
   <div class="swiper__wrapper">
     <div class="swiper__slide"><a href="https://enroll.utdallas.edu/freshman/aes/prospective-students/qualifications/"><img class="lightbox-ignore" src="/aes.png"/></a></div>
     <div class="swiper__slide"><a href="https://www.scouting.org/resources/guide-to-advancement/eagle-scout-rank/"><img class="lightbox-ignore" src="/bsa.png"/></a></div>
-    <div class="swiper__slide"><img class="lightbox-ignore" src="/techa.png"/></div>
+    <div class="swiper__slide"><a href = "https://grad.gatech.edu/presidents-fellowships/"><img class="lightbox-ignore" src="/techa.png"/></a></div>
   </div>
   <div class="swiper__button swiper__button--prev fas fa-chevron-left"></div>
   <div class="swiper__button swiper__button--next fas fa-chevron-right"></div>
