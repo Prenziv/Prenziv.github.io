@@ -179,3 +179,4 @@ title: Background
 </script>
 
 ## Resume
+<a href = "Pranav_Mathews_Resume.pdf"> Click to view</a>
