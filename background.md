@@ -11,7 +11,7 @@ title: Background
 <div class="grid">
 
 
- <div class="cell cell--auto">
+ <div class="cell cell--12 cell--lg-3">
 
 <div class="card">
   <div class="card__image">
@@ -27,12 +27,12 @@ title: Background
 
 </div>
 
-<div class="cell cell--1">
+<div class="cell cell--auto">
 
 </div>
 
 
-<div class="cell cell--auto">
+<div class="cell cell--12 cell--lg-3">
 
   <div class="card">
   <div class="card__image">
@@ -42,18 +42,18 @@ title: Background
     <div class="card__header">
       <h4>UTD</h4>
     </div>
-    <p>Graduated 2021 <br> B.S. in Electrical Engineering  </p>
+    <p>Graduated 2021 <br> B.S. in Electrical Eng.  </p>
   </div>
 </div>
 
 </div>
 
-<div class="cell cell--1">
+<div class="cell cell--auto">
 
 </div>
 
 
-<div class="cell cell--auto">
+<div class="cell cell--12 cell--lg-3">
 
 
 <div class="card">
@@ -64,7 +64,7 @@ title: Background
     <div class="card__header">
       <h4>Georgia Tech</h4>
     </div>
-    <p>Expected 2026 <br> Ph.D in Electrical Engineering</p>
+    <p>Expected 2026 <br> Ph.D in Electrical Eng.</p>
   </div>
 </div>
 
@@ -78,7 +78,7 @@ title: Background
 
 <div class="grid">
 
-<div class="cell cell--6">
+<div class="cell cell--12 cell--lg-6">
 
 <div class="item">
   <div class="item__image">
@@ -101,18 +101,18 @@ title: Background
 </div>
 
 
-<div class="cell cell--6">
+<div class="cell cell--12 cell--lg-6">
 
 <div class="item">
   <div class="item__image">
-    <img class="image" src="/nsc.PNG"/>
+    <img class="image" src="/nsc.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
-      <h4> Undergrad Researcher <a href = "https://personal.utdallas.edu/~joseph.friedman/">(Link) </a></h4> 
+      <h4> Undergrad Researcher</h4> 
     </div>
     <div class="item__description">
-      <p>May 2018 - May 2021</p>
+      <p> <a href = "https://personal.utdallas.edu/~joseph.friedman/">Link </a> <br/>  May 2018 - May 2021</p>
     </div>
   </div>
 </div>
