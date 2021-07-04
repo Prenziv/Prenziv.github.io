@@ -112,7 +112,8 @@ title: Background
       <h4> Undergrad Researcher</h4> 
     </div>
     <div class="item__description">
-      <p> <a href = "https://personal.utdallas.edu/~joseph.friedman/">Link </a> <br/>  May 2018 - May 2021</p>
+      <p> <a href = "https://personal.utdallas.edu/~joseph.friedman/">NeuroSpinCompute Lab </a> <br/> May 2018 - August 2021
+        <br/> <a href = "https://www.utsouthwestern.edu/labs/park-jae-mo/">Park Lab </a> <br/> May 2020 - August 2021</p>
     </div>
   </div>
 </div>
